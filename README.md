@@ -16,10 +16,14 @@ This project is focused on analyzing financial data using both Natural Language 
 
   ### Key functionalities include:
 
-**Sentiment Analysis**: Extract and quantify sentiment from financial news articles.
-**Correlation Analysis**: Identify and analyze correlations between news sentiment and stock market performance.
-**Technical Analysis**: Use TA-Lib to calculate indicators like Moving Averages, RSI, and MACD.
-**Visualization**: Visualize the impact of various indicators on stock prices.
+- **Sentiment Analysis**: Extract and quantify sentiment from financial news articles.
+
+- **Correlation Analysis**: Identify and analyze correlations between news sentiment and stock market performance.
+
+- **Technical Analysis**: Use TA-Lib to calculate indicators like Moving Averages, RSI, and MACD.
+
+- **Visualization**: Visualize the impact of various indicators on stock prices.
+
 
 ## Technologies
 
