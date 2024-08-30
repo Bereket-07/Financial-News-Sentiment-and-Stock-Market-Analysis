@@ -27,7 +27,7 @@ This repository contains the backend code used to provide services to the client
 
 The set of technologies we utilized in this project:
 
-1. **Programming Language**: [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+1. **Programming Language**: [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
 2. **Data Visualization**: [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-3776AB?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Plotly](https://img.shields.io/badge/Plotly-Visualization-3F4D8A?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
