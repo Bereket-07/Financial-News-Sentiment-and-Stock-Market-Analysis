@@ -40,7 +40,7 @@ The set of technologies we utilized in this project:
 4. **Natural Language Processing**: [![NLTK](https://img.shields.io/badge/NLTK-NLP-5B2D5F?style=flat&logo=nltk&logoColor=white)](https://www.nltk.org/)
 [![SpaCy](https://img.shields.io/badge/SpaCy-NLP-4A5C4D?style=flat&logo=spacy&logoColor=white)](https://spacy.io/)
 5. **Technical Analysis**: [![TA-Lib](https://img.shields.io/badge/TA--Lib-Technical_Analysis-DAA520?style=flat&logo=tradingview&logoColor=white)](https://mrjbq7.github.io/ta-lib/)
-6. **Financial Metrics**: [![PyNance](https://img.shields.io/badge/PyNance-Financial_Metrics-1D4D5D?style=flat&logo=python&logoColor=white)](https://pynance.readthedocs.io/)
+### 6. **Financial Metrics**: [![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-Financial_Metrics-1D4D5D?style=flat&logo=python&logoColor=white)](https://pyportfolioopt.readthedocs.io/)
 7. **Web Framework**: [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
 8. **Version Control**: [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 9. **Data Hosting**: [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://www.google.com/drive/)
